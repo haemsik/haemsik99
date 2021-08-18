@@ -1,5 +1,5 @@
 "Hello,World!"
-"I'm hamsik"
+"I'm hamesik"
 
 <!---
 hamsik99/hamsik99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
